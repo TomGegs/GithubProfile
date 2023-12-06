@@ -4,7 +4,7 @@ Hi 👋 My name is Tom Geoghegan
 Front-End Developer & UX Enthusiast
 -----------------------------------
 
-I'm a lifetime learner and am energised by building exciting new experiences. I'm always looking to level up by tackling challenges, turning failures into fuel, and bouncing ideas off the talented team around me. I’m passionate about staying up-to-date with emerging technology, and am motivated to deliver innovative solutions, exceptional user experience and facilitate business growth.
+I’m passionate about staying up-to-date with emerging technology, and am motivated to deliver innovative solutions, exceptional user experience and facilitate business growth.
 
 * 🌍  I'm based in Brisbane, QLD
 * 🖥️  See my portfolio at [tomgeoghegan.vercel.app](http://tomgeoghegan.vercel.app/)
