@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tom Geoghegan
+Hi 👋 My name is Tom Geoghegan
 =====================================================================================================================================
 
 Front-End Developer & UX Enthusiast
@@ -8,8 +8,8 @@ I'm a lifetime learner and am energised by building exciting new experiences. I'
 
 * 🌍  I'm based in Brisbane, QLD
 * 🖥️  See my portfolio at [tomgeoghegan.vercel.app](http://tomgeoghegan.vercel.app/)
-* 🧠  I'm learning Guitar, to surf and all things JavaScript
-* ⚡  A little about my professional journey: Project Manager, Digital Transformation Lead, Start-up Growth Manager, Event Host, Twitch Streamer
+* 🧠  I'm learning Guitar 🎸, to surf 🏄‍♂️ and all things JavaScript
+* ⚡  A little about my professional journey so far: Project Manager, Digital Transformation Lead, Start-up Growth Manager, Event Host, Twitch Streamer
 
 ### Skills
 
